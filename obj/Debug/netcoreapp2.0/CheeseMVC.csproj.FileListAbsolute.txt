@@ -1,0 +1,8 @@
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.deps.json
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.runtimeconfig.json
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.runtimeconfig.dev.json
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\bin\Debug\netcoreapp2.0\CheeseMVC.dll
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.csprojAssemblyReference.cache
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.AssemblyInfoInputs.cache
+C:\Users\Dominick\Source\Repos\LaunchCodeEducation\CheeseMVCPersistent\src\CheeseMVC\obj\Debug\netcoreapp2.0\CheeseMVC.AssemblyInfo.cs
